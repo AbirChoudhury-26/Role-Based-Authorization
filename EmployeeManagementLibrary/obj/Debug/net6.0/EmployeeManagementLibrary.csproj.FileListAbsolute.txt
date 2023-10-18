@@ -1,0 +1,12 @@
+C:\ASP.Net Projects\EmployeeManagement.API\EmployeeManagementLibrary\bin\Debug\net6.0\EmployeeManagementLibrary.deps.json
+C:\ASP.Net Projects\EmployeeManagement.API\EmployeeManagementLibrary\bin\Debug\net6.0\EmployeeManagementLibrary.dll
+C:\ASP.Net Projects\EmployeeManagement.API\EmployeeManagementLibrary\bin\Debug\net6.0\EmployeeManagementLibrary.pdb
+C:\ASP.Net Projects\EmployeeManagement.API\EmployeeManagementLibrary\obj\Debug\net6.0\EmployeeManagementLibrary.csproj.AssemblyReference.cache
+C:\ASP.Net Projects\EmployeeManagement.API\EmployeeManagementLibrary\obj\Debug\net6.0\EmployeeManagementLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASP.Net Projects\EmployeeManagement.API\EmployeeManagementLibrary\obj\Debug\net6.0\EmployeeManagementLibrary.AssemblyInfoInputs.cache
+C:\ASP.Net Projects\EmployeeManagement.API\EmployeeManagementLibrary\obj\Debug\net6.0\EmployeeManagementLibrary.AssemblyInfo.cs
+C:\ASP.Net Projects\EmployeeManagement.API\EmployeeManagementLibrary\obj\Debug\net6.0\EmployeeManagementLibrary.csproj.CoreCompileInputs.cache
+C:\ASP.Net Projects\EmployeeManagement.API\EmployeeManagementLibrary\obj\Debug\net6.0\EmployeeManagementLibrary.dll
+C:\ASP.Net Projects\EmployeeManagement.API\EmployeeManagementLibrary\obj\Debug\net6.0\refint\EmployeeManagementLibrary.dll
+C:\ASP.Net Projects\EmployeeManagement.API\EmployeeManagementLibrary\obj\Debug\net6.0\EmployeeManagementLibrary.pdb
+C:\ASP.Net Projects\EmployeeManagement.API\EmployeeManagementLibrary\obj\Debug\net6.0\ref\EmployeeManagementLibrary.dll
